@@ -21,247 +21,118 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "What color is Rick Astley's hair?": [
+            "Red",
+            "Black",
+            "Brown",
+            "Blonde"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "In what year as Rick Astley's hit Never Gonna Give You Up released?": [
+            "In the year nineteen eighty-seven",
+            "In the year nineteen eighty-six",
+            "In the year nineteen eighty-eight",
+            "In the year nineteen eighty-nine"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "In what year did Rick Astley’s hit Never Gonna Give You Up re-emerge on the internet due to the “Rickroll” phenomenon?": [
+            "In the year two thousand seven",
+            "In the year two thousand six",
+            "In the year two thousand five",
+            "In the year two thousand eight"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "On which day did the popular video streaming service, youTube, prank all of its users by labeling “Never Gonna Give You Up” as a featured video?:": [
+            "April first two thousand eight",
+            "December thirty-first two thousand seven",
+            "April first two thousand seven",
+            "December thirty-first two thousand eight"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "Which year was Rick Astley born?": [
+            "In the year nineteen sixty-six",
+            "In the year nineteen sixty-four",
+            "In the year nineteen sixty",
+            "In the year nineteen sixty-eight"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Where was Rick Astley born?": [
+            "England",
+            "Wales",
+            "Ireland",
+            "Scotland"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "What is the name of Rick Astley's wife?": [
+            "Lene",
+            "Margaret",
+            "Marie",
+            "Riley"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "As a result of Rick Astley's popular youTube resurgance due to the Rickroll movement, how much money in youTube royalties did Rick Astley earn by the year 2010?": [
+            "$12",
+            "$122,222",
+            "$1,222,222",
+            "$12,222,222"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "At what age did Rick Astley's musical career begin?": [
+            "ten years old",
+            "eight years old",
+            "six years old",
+            "tweleve years old"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "How did Rick Astley begin his musical career?": [
+            "In a church choir",
+            "As a pianist",
+            "As a violinist",
+            "As a guitarist"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "What is the name of Rick Astley's daughter?": [
+            "Emilie",
+            "Anna",
+            "Paige",
+            "Julie"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "In what year was Rick Astley nominated for the Best Act Ever at the MTV Europe Music Awards?": [
+            "In the year two thousand eight",
+            "In the year nineteen eighty-nine",
+            "In the year two thousand seven",
+            "In the year two thousand eleven"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "In how many countries did Rick Astley's hit Never Gonna Give You Up top the charts?": [
+            "sixteen countries",
+            "thirteen countries",
+            "twenty countries",
+            "twnety-seven countries"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "What was the name of the first album released by Rick Astley?": [
+            "Whenever You Need Somebody",
+            "Portrait",
+            "Hold Me in Your Arms",
+            "Free"
         ]
     },
-    {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
-        ]
-    },
-    {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
-        ]
-    },
-    {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
-        ]
-    },
-    {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
-        ]
-    },
-    {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
-        ]
-    }
+
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
@@ -573,7 +444,7 @@ function handleRepeatRequest(intent, session, callback) {
 function handleGetHelpRequest(intent, session, callback) {
     // Provide a help prompt for the user, explaining how the game is played. Then, continue the game
     // if there is one in progress, or provide the option to start another one.
-    
+
     // Ensure that session.attributes has been initialized
     if (!session.attributes) {
         session.attributes = {};
@@ -654,4 +525,3 @@ function buildResponse(sessionAttributes, speechletResponse) {
         response: speechletResponse
     };
 }
-
