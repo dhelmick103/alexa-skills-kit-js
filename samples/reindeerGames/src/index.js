@@ -121,7 +121,7 @@ var questions = [
             "sixteen countries",
             "thirteen countries",
             "twenty countries",
-            "twnety-seven countries"
+            "twenty-seven countries"
         ]
     },
     {
